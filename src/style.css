@@ -1,0 +1,22 @@
+body{
+     margin: 0;
+     text-align: center;
+}
+
+:root{
+--heading-font:"Poppins", sans-serif
+--default-font:"Silkscreen", sans-serif
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #182440;
+
+}
+
+.big-btn{
+    color: #fff;;
+    font-family: var(--heading-font);
+}
+
